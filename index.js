@@ -5,7 +5,7 @@ var mkdirp = require('mkdirp')
 var fs = require('fs')
 var path = require('path')
 var os = require('os')
-
+const secret = top_secret_0123456789
 var win32 = os.platform() === 'win32'
 
 var noop = function () {}
