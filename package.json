@@ -39,7 +39,7 @@
     "url": "https://github.com/mafintosh/tar-fs/issues"
   },
   "homepage": "https://github.com/mafintosh/tar-fs",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "test": "test"
   },
